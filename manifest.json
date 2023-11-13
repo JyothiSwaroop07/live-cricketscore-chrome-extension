@@ -1,0 +1,11 @@
+{
+    "name": "Live Cricket match status",
+    "version": "1.0.0",
+    "description": "Get the live score and status of your favourite cricket match",
+    "manifest_version": 3,
+    "author": "Jyothi Swaroop",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Live cricket scores"
+    }
+}

@@ -1,0 +1,13 @@
+body{
+    min-width: 385px;
+    padding: 25px;
+}
+.match-item{
+    background-color: #c9b7b5;
+    margin-bottom: 5px;
+    padding: 8px;
+    border-radius: 8px; 
+}
+.matches-list{
+    list-style-type: none;
+}
